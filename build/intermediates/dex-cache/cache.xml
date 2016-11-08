@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/altman29/projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/altman29/projects/NavigationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_1459cb9e2614e883c789147798b0ada5f3eef3a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/altman29/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/altman29/projects/NavigationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_8f247a9c121e4a8dd47b373d890bb10ee420cce1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/altman29/projects/NavigationDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1dcdabbf00b0474bd60b7667523b6ac96890b768">
+        <dex dex="/Users/altman29/projects/NavigationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0a49627b0e9eae84ec3b89813e02092187e9d89a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/altman29/projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/altman29/projects/NavigationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_01a34770fc3e30f610381f1b6baec5b285dca01d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/altman29/projects/NavigationDemo/app/build/intermediates/exploded-aar/com.ashokvarma.android/bottom-navigation-bar/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="84a5e720e441032fc979314a4539f3d40079801b">
+        <dex dex="/Users/altman29/projects/NavigationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.ashokvarma.android-bottom-navigation-bar-1.3.0_4f79c5e80f4c50497e5b0bcb9dca3d86f7b480ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/altman29/projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/altman29/projects/NavigationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_7bf9a1303805f5a473cc4f36368c21bd14070aef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/altman29/projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/altman29/projects/NavigationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_ca8ef0b505c45c5157e45b843412a3ecbbc17875/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/altman29/projects/NavigationDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="79afec997c5337fc1c0af4c4f4786edf2fbf0dac">
+        <dex dex="/Users/altman29/projects/NavigationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ea4f2c9f9c725890c141c79b887f1d966566222/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/altman29/projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/altman29/projects/NavigationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_393da5e0828e6ab889373c1af793ecacf1c1e2af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/altman29/projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/altman29/projects/NavigationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_74bc73f18abf57b64bd6be28eee9bfb12e02a559/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/altman29/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/altman29/projects/NavigationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_fea13d22f52d839e6285bf08e9deb0fe09475015/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/altman29/projects/NavigationDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/altman29/projects/NavigationDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_01c1a2d9f6b02bb92ca6edc799b3ed3d36ed7b6d/classes.dex" />
+    </item>
+
+</items>
